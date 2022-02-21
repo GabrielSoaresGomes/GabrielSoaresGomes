@@ -4,4 +4,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoaresGomes&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>  
   
-![Snake animation](https://github.com/allystor/allystor/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielSoaresGomes/GabrielSoaresGomes/blob/output/github-contribution-grid-snake.svg)
