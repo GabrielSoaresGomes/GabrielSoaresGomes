@@ -168,17 +168,6 @@ Tecnologias e práticas:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/GabrielSoaresGomes">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielSoaresGomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoaresGomes&layout=compact&langs_count=16&theme=midnight-purple"/>
-  </a>
-</div>
-
----
-
 ## 🧩 Projetos em destaque
 
 <table>
@@ -231,16 +220,6 @@ Tecnologias e práticas:
     </td>
   </tr>
 </table>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/GabrielSoaresGomes/GabrielSoaresGomes/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
